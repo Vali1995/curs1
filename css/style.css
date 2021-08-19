@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+/* START RESET*/
+
+/*END RESET*/
+
+
+.button {
+    font-size: 1.6rem;
+    line-height: 1.6em;
+    padding:  1em 1.5em;
+    background-color: #25ced1;
+    min-width:  24rem;
+    display: inline-block;
+    font-weight: 600;
+    
+
+}
+/* 
+margin,padding ,width , height nu functioneaza pe 
+elemente inline
+*/
